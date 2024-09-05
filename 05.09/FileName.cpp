@@ -8,5 +8,5 @@ int Sum(int a, int b)
 
 int main()
 {
-
+    return b + a; 
 }
